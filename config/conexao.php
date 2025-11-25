@@ -15,6 +15,6 @@ try {
 }
 
 // Token do Mercado Pago (acesso da sua conta)
-define('MP_ACCESS_TOKEN', 'APP_USR-3725334823147849-112610-ccb72a76edc39a5c0902ac0975e8c553-2069289633');
+define('MP_ACCESS_TOKEN', 'seu_token_aqui');
 
 ?>
