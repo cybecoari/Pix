@@ -32,7 +32,7 @@ if (!$payment_id && isset($_COOKIE['last_payment_id'])) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pagamento Confirmado - Cyber Coari</title>
+    <title>Pagamento Confirmado - CYBERCOARI</title>
     <style>
         * {
             margin: 0;
@@ -213,7 +213,7 @@ if (!$payment_id && isset($_COOKIE['last_payment_id'])) {
         <a href="https://wa.me/5597981187297?text=Olá%2C%20acabei%20de%20fazer%20um%20pagamento%20no%20Cyber%20Coari" class="btn btn-secundario">📱 Falar com suporte</a>
         
         <div class="footer">
-            Cyber Coari - Sistemas de Pagamento<br>
+            CYBERCOARI - Sistemas de Pagamento<br>
             Em caso de dúvidas, entre em contato
         </div>
     </div>

@@ -37,7 +37,7 @@ if (isset($_COOKIE[$cookie_name]) && isset($_COOKIE['payment_expires']) && time(
     // Dados para pagamento PIX
     $dados = [
         "transaction_amount" => 1.00,
-        "description" => "Pagamento Cyber Coari",
+        "description" => "Pagamento CYBERCOARI",
         "payment_method_id" => "pix",
         "notification_url" => "https://app.cybercoari.com.br/notifica.php",
         "payer" => [
@@ -93,7 +93,7 @@ if (isset($_COOKIE[$cookie_name]) && isset($_COOKIE['payment_expires']) && time(
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-    <title>PIX - Cyber Coari</title>
+    <title>PIX - CYBERCOARI</title>
     <style>
         * {
             margin: 0;
